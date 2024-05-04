@@ -23,7 +23,7 @@ Before you begin, ensure you have the following:
 Clone the repository and install the required Python packages:
 
 ```bash
-git clone https://www.your-repository-url.com/pettahai-automation-suite
+git clone https://github.com/Seja-menath-dev/Pettahai-Automation-Suite.git
 cd pettahai-automation-suite
 pip install -r requirements.txt
 ```
