@@ -66,9 +66,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 For more information or to contact the developers, visit
 
-- [www.sejamenth.com](http://www.sejamenth.com) - Developer site
-
-- [www.pettahai.com](http://www.pettahai.com). - Company site
+- [Developer site](www.sejamenth.com)
+- [Company site](www.pettahai.com)
 
 
 ##  Contributing
