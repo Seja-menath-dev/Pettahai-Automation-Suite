@@ -1,21 +1,4 @@
-[![Build Status][build-button]][build]
-[![Coverage Status][codecov-button]][codecov]
-[![Latest Version][mdversion-button]][md-pypi]
-[![Python Versions][pyversion-button]][md-pypi]
-[![BSD License][bsdlicense-button]][bsdlicense]
-[![Code of Conduct][codeofconduct-button]][Code of Conduct]
 
-[build-button]: https://github.com/Python-Markdown/markdown/workflows/CI/badge.svg?event=push
-[build]: https://github.com/Python-Markdown/markdown/actions?query=workflow%3ACI+event%3Apush
-[codecov-button]: https://codecov.io/gh/Python-Markdown/markdown/branch/master/graph/badge.svg
-[codecov]: https://codecov.io/gh/Python-Markdown/markdown
-[mdversion-button]: https://img.shields.io/pypi/v/Markdown.svg
-[md-pypi]: https://pypi.org/project/Markdown/
-[pyversion-button]: https://img.shields.io/pypi/pyversions/Markdown.svg
-[bsdlicense-button]: https://img.shields.io/badge/license-BSD-yellow.svg
-[bsdlicense]: https://opensource.org/licenses/BSD-3-Clause
-[codeofconduct-button]: https://img.shields.io/badge/code%20of%20conduct-contributor%20covenant-green.svg?style=flat-square
-[Code of Conduct]: https://github.com/Python-Markdown/markdown/blob/master/CODE_OF_CONDUCT.md
 ![a-stunning-portrayal-of-a-futuristic-workspace-whe-za8H8FD5RkW39BL3DuS3TQ-Zbc6mnI_QOOLvOyVEU5x-Q](https://github.com/Seja-menath-dev/Pettahai-Automation-Suite/assets/166058763/923aff57-dd5c-4370-bc24-e74cf87fb250)
 
 
@@ -82,4 +65,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - **API Service**: [Anthropic API](https://www.anthropic.com/api)
 
 For more information or to contact the developers, visit [www.sejamenth.com](http://www.sejamenth.com) and [www.pettahai.com](http://www.pettahai.com).
+##  Contributing
+
+To grow the project, we need your help! See the links below to get started.
+
+- [ Contributing Guide][]
+- [ Start a Discussion][]
+- [ Open an Issue][]
 
