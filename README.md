@@ -73,7 +73,9 @@ For more information or to contact the developers, visit
 
 ##  Contributing
 
-To grow the project, we need your help! See the links below to get started.
+To grow the project, we need your help! 
+
+<h6> <center>2024 feb 25</center></h6>
 
 
 
