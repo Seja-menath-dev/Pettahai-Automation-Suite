@@ -14,12 +14,12 @@ The Pettahai Automation Suite is a Python-based application designed to automate
 - **Rich UI Components**: Uses the Rich library to enhance CLI outputs with styled and structured panels.
 
 ## Prerequisites 
-<img src="https://w1.pngwing.com/pngs/199/577/png-transparent-python-logo-programming-language-computer-programming-python-tutorial-highlevel-programming-language-java-generalpurpose-programming-language-statement-thumbnail.png" align="right"/>
+
 
 Before you begin, ensure you have the following:
 - Python 3.8 or higher
 - Access to the Anthropic API
-
+<img src="https://png.pngtree.com/png-vector/20220608/ourmid/pngtree-vector-illustration-of-an-icon-of-the-python-programming-language-png-image_4929818.png" align="right"/>
 ## Installation
 
 Clone the repository and install the required Python packages:
