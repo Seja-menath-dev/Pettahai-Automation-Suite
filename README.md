@@ -1,4 +1,5 @@
-![a-stunning-display-of-cutting-edge-technology-show-okNJ6qx8TxKGkNPcZW4Law-ZNTxIwjtR26NzbDACw77Cw](https://github.com/Seja-menath-dev/Pettah-Ai---Agent/assets/166058763/ef957684-ac5f-4795-8e0e-13200d3d5f64)
+
+![a-stunning-portrayal-of-a-futuristic-workspace-whe-za8H8FD5RkW39BL3DuS3TQ-Zbc6mnI_QOOLvOyVEU5x-Q](https://github.com/Seja-menath-dev/Pettahai-Automation-Suite/assets/166058763/923aff57-dd5c-4370-bc24-e74cf87fb250)
 
 
 # Pettahai Automation Suite
@@ -12,7 +13,8 @@ The Pettahai Automation Suite is a Python-based application designed to automate
 - **Dynamic File Handling**: Automatically creates folders and files based on AI-generated outputs.
 - **Rich UI Components**: Uses the Rich library to enhance CLI outputs with styled and structured panels.
 
-## Prerequisites
+## Prerequisites 
+<img src="icon.png" align="right"/>
 
 Before you begin, ensure you have the following:
 - Python 3.8 or higher
