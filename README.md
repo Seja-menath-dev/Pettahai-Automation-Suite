@@ -2,7 +2,7 @@
 ![a-stunning-portrayal-of-a-futuristic-workspace-whe-za8H8FD5RkW39BL3DuS3TQ-Zbc6mnI_QOOLvOyVEU5x-Q](https://github.com/Seja-menath-dev/Pettahai-Automation-Suite/assets/166058763/923aff57-dd5c-4370-bc24-e74cf87fb250)
 
 
-# Pettahai Automation Suite
+# Pettahai Automation Suite 1.0
 
 The Pettahai Automation Suite is a Python-based application designed to automate the breakdown of complex objectives into manageable tasks, process them through various AI models, and generate structured outputs. This tool leverages the Anthropic API to orchestrate tasks and refine results, making it ideal for developers and teams looking to enhance productivity through automation.
 
@@ -19,7 +19,7 @@ The Pettahai Automation Suite is a Python-based application designed to automate
 Before you begin, ensure you have the following:
 - Python 3.8 or higher
 - Access to the Anthropic API
-<img src="https://png.pngtree.com/png-vector/20220608/ourmid/pngtree-vector-illustration-of-an-icon-of-the-python-programming-language-png-image_4929818.png" align="right"/>
+  
 ## Installation
 
 Clone the repository and install the required Python packages:
@@ -64,12 +64,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - **Powered by**: Pettah AI
 - **API Service**: [Anthropic API](https://www.anthropic.com/api)
 
-For more information or to contact the developers, visit [www.sejamenth.com](http://www.sejamenth.com) and [www.pettahai.com](http://www.pettahai.com).
+For more information or to contact the developers, visit
+
+- [www.sejamenth.com](http://www.sejamenth.com) - Developer site
+
+- [www.pettahai.com](http://www.pettahai.com). - Company site
+
+
 ##  Contributing
 
 To grow the project, we need your help! See the links below to get started.
 
-- [ Contributing Guide][]
-- [ Start a Discussion][]
-- [ Open an Issue][]
+
 
